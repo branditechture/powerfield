@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Powerfield Integrated Services Ltd.</title>
-	<atom:link href="http://branditechture.github.io/powerfield/feed/" rel="self" type="application/rss+xml" />
-	<link>http://branditechture.github.io/powerfield/</link>
+	<atom:link href="https://branditechture.github.io/powerfield/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.github.io/powerfield/</link>
 	<description>Nigeria&#039;s Integrated Energy Company</description>
 	<lastBuildDate>Sat, 29 Jan 2022 19:29:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.9.1</generator>
 
 <image>
-	<url>http://branditechture.github.io/powerfield/wp-content/uploads/2022/01/cropped-cover-removebg-preview-1-32x32.png</url>
+	<url>https://branditechture.github.io/powerfield/wp-content/uploads/2022/01/cropped-cover-removebg-preview-1-32x32.png</url>
 	<title>Powerfield Integrated Services Ltd.</title>
-	<link>http://branditechture.github.io/powerfield/</link>
+	<link>https://branditechture.github.io/powerfield/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
